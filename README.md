@@ -56,3 +56,5 @@ If you met some errors with pickle, please delete configs.p in the local directo
 - Stability testings (This script is still quite new and likely to be extremely unstable)
 
 - Add bookings for TP simulator slots (Not anytime soon)
+
+- Add support for Telegram booking (definitely not fighting against some clowns. This kind of services should be free and not chargable)
