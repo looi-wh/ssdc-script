@@ -34,5 +34,5 @@ goto runScript
 
 :runScript
 echo.
-python bbdc_bot.py
+python ssdc_bot.py
 pause
