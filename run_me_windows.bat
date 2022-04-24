@@ -34,5 +34,5 @@ goto runScript
 
 :runScript
 echo.
-python ssdc_bot.py
+python ssdc_script.py
 pause
