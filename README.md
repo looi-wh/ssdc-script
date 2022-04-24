@@ -1,5 +1,5 @@
 
-# SSDC-BOT
+# SSDC-SCRIPT
 Script to automate purchase in SSDC
 
 Script is still in testing phrase and is likely to crash during the initiation process. If so, just restart the script and it will run as normal.
@@ -36,7 +36,7 @@ run_me_windows.bat
 Then run this project with the code below in any terminal:
 
 ```bash
-python3 ssdc_bot.py
+python3 ssdc_script.py
 ```
 ## Environment Variables
 
