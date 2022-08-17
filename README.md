@@ -25,7 +25,7 @@ Please however note that this batch file will only be available for Windows user
 
 - Then run the file below like how you would run a normal software
 ```bash
-run_me_windows.bat
+run_me.bat
 ```
 [Notice] Please make sure you have the latest version of Chrome before running the script!
 ## Deployment (For MacOS and Linux)
